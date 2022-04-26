@@ -1,0 +1,2 @@
+# Vocal-Biomarker-ICBHI-final-database
+The automatic analysis of respiratory sounds has been a field of great research interest during the last decades. Automated classification of respiratory sounds has the potential to detect abnormalities in the early stages of a respiratory dysfunction and thus enhance the effectiveness of decision making. We are using the ICBHI Sound database to detect the unhealthy respiration.
